@@ -4,7 +4,7 @@
 - Import the SQL file "comments.sql" to create the table
 - Config database connection in .env file
 
-Best Regards
+Best Regards<br/>
 Luis
 
 
